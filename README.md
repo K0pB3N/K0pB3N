@@ -3,18 +3,18 @@
   <br>
   <br>
   
-  <img width="200" src="https://github.com/Ri7vaI/Ri7vaI/blob/e4f1526e6f125789af1fadab85fa3ae0e8c47579/Rivai.gif">
+  <img width="200" src="https://github.com/Ri7vaI/Ri7vaI/blob/7ad6a7a8a96ae0268a6b29bf94d365784f29dc9b/Rivai.gif">
  
   <br>
   <br>
   
   <samp>
-    <i>Yo!</i> I'm <b>Kirill</b>.
+    <i>Hello, there!</i> I'm <b>Huseyn</b>.
     <br> 
-    I'm a Frontend Developer & Designer from Latvia.
+    I'm a Developer & Designer from Russia/Turkey.
     <br>
     <br>
-    <i>#js</i>, <i>#ts</i>, <i>#react</i>, <i>#node</i>, <i>#deno</i>
+    <i>#figma</i>, <i>#photoshop</i>, <i>#react</i>, <i>#node</i>, <i>#js</i>, <i>#ae</i>, <i>#pp</i>
   </samp>
   
   <br>
