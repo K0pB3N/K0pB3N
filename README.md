@@ -3,7 +3,7 @@
   <br>
   <br>
   
-  <img width="200" src="https://github.com/Ri7vaI/Ri7vaI/blob/7ad6a7a8a96ae0268a6b29bf94d365784f29dc9b/Rivai.gif">
+  <img width="200" src="https://github.com/K0pB3N/Ri7vaI/blob/main/shiba-eye.gif">
  
   <br>
   <br>
