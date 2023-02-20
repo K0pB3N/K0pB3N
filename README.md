@@ -14,7 +14,7 @@
     I'm a Developer & Designer from Russia/Turkey.
     <br>
     <br>
-    <i>#figma</i>, <i>#photoshop</i>, <i>#react</i>, <i>#angular</i>, <i>#nestjs</i>, <i>#node</i>, <i>#js</i>, <i>#ae</i>, <i>#pp</i>
+    <i>#figma</i>, <i>#react</i>, <i>#angular</i>, <i>#nestjs</i>, <i>#node</i>, <i>#js</i>
   </samp>
   
   <br>
